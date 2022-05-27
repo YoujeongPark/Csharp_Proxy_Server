@@ -1,0 +1,16 @@
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.AssemblyReference.cache
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.SuggestedBindingRedirects.cache
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+H:\01_github\CSHARPPROXY\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
+H:\01_github\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+H:\01_github\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+H:\01_github\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+H:\01_github\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.AssemblyReference.cache
+H:\01_github\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.SuggestedBindingRedirects.cache
+H:\01_github\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+H:\01_github\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+H:\01_github\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
