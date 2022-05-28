@@ -1,0 +1,8 @@
+H:\01_github\ProxyServer\HttpTest\bin\Debug\HttpTest.exe.config
+H:\01_github\ProxyServer\HttpTest\bin\Debug\HttpTest.exe
+H:\01_github\ProxyServer\HttpTest\bin\Debug\HttpTest.pdb
+H:\01_github\ProxyServer\HttpTest\obj\Debug\HttpTest.csproj.AssemblyReference.cache
+H:\01_github\ProxyServer\HttpTest\obj\Debug\HttpTest.csproj.SuggestedBindingRedirects.cache
+H:\01_github\ProxyServer\HttpTest\obj\Debug\HttpTest.csproj.CoreCompileInputs.cache
+H:\01_github\ProxyServer\HttpTest\obj\Debug\HttpTest.exe
+H:\01_github\ProxyServer\HttpTest\obj\Debug\HttpTest.pdb

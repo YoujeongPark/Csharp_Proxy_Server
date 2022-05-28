@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B0A6F738-A129-4873-BA87-E6B9F1A54B83}</ProjectGuid>
+    <ProjectGuid>{13F80DA9-28C2-4DA7-8586-2F7827ED4EC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProxyServer</RootNamespace>
-    <AssemblyName>ProxyServer</AssemblyName>
+    <RootNamespace>HttpClientEx</RootNamespace>
+    <AssemblyName>HttpClientEx</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

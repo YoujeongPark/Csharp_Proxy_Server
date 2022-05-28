@@ -1,0 +1,8 @@
+H:\01_github\ProxyServer\SimpleProxyServer\bin\Debug\SimpleProxyServer.exe.config
+H:\01_github\ProxyServer\SimpleProxyServer\bin\Debug\SimpleProxyServer.exe
+H:\01_github\ProxyServer\SimpleProxyServer\bin\Debug\SimpleProxyServer.pdb
+H:\01_github\ProxyServer\SimpleProxyServer\obj\Debug\SimpleProxyServer.csproj.AssemblyReference.cache
+H:\01_github\ProxyServer\SimpleProxyServer\obj\Debug\SimpleProxyServer.csproj.SuggestedBindingRedirects.cache
+H:\01_github\ProxyServer\SimpleProxyServer\obj\Debug\SimpleProxyServer.csproj.CoreCompileInputs.cache
+H:\01_github\ProxyServer\SimpleProxyServer\obj\Debug\SimpleProxyServer.exe
+H:\01_github\ProxyServer\SimpleProxyServer\obj\Debug\SimpleProxyServer.pdb

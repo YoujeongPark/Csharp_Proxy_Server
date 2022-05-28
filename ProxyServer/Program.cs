@@ -168,7 +168,6 @@ namespace ProxyServer
 
                     if (contentHeader)
                     {
-                        Console.WriteLine("대답" + contentHeader);
                         msg.Content.Headers.Add(headerName, headerValue);
                     }
                     else
@@ -190,6 +189,8 @@ namespace ProxyServer
                             context.Response.Headers.Add(header.Key, string.Join(", ", header.Value));
                         }
 
+
+
                         foreach (var header in response.Content.Headers)
                         {
                             if (header.Key == "Content-Length") // this will be set automatically at dispose time
@@ -207,10 +208,12 @@ namespace ProxyServer
                             {
                                 using (var stream = await response.Content.ReadAsStreamAsync().ConfigureAwait(false))
                                 {
-                                    await stream.CopyToAsync(ms).ConfigureAwait(false);
+                                    await stream.CopyToAsync(ms).ConfigureAwait(false); // 고대로 전달 
 
                                     var enc = context.Response.ContentEncoding ?? Encoding.UTF8;
                                     var html = enc.GetString(ms.ToArray());
+
+
                                     if (TryReplace(html, "//" + _targetHost + ":" + _targetPort + "/", "//" + host + "/", out var replaced))
                                     {
                                         var bytes = enc.GetBytes(replaced);

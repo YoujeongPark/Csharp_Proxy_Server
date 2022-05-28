@@ -1,0 +1,8 @@
+H:\01_github\ProxyServer\TcpServerEx\bin\Debug\TcpServerEx.exe.config
+H:\01_github\ProxyServer\TcpServerEx\bin\Debug\TcpServerEx.exe
+H:\01_github\ProxyServer\TcpServerEx\bin\Debug\TcpServerEx.pdb
+H:\01_github\ProxyServer\TcpServerEx\obj\Debug\TcpServerEx.csproj.AssemblyReference.cache
+H:\01_github\ProxyServer\TcpServerEx\obj\Debug\TcpServerEx.csproj.SuggestedBindingRedirects.cache
+H:\01_github\ProxyServer\TcpServerEx\obj\Debug\TcpServerEx.csproj.CoreCompileInputs.cache
+H:\01_github\ProxyServer\TcpServerEx\obj\Debug\TcpServerEx.exe
+H:\01_github\ProxyServer\TcpServerEx\obj\Debug\TcpServerEx.pdb
